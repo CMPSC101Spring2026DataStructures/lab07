@@ -1,4 +1,4 @@
-# Data Analysis and Visualization Programming Assignment (Using Modules and UV)
+# Data Analysis and Visualization Programming (Using Modules and UV)
 
 # CS101 Spring 2026: Lab 07
 
